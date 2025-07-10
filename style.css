@@ -1,0 +1,76 @@
+@font-face {
+    font-family: "f1";
+    src: url(fonts/Formula1-Black.ttf);
+}
+
+@font-face {
+    font-family: "f1Reg";
+    src: url(fonts/Formula1-Regular-1.ttf);
+}
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    background-color: #15151e;
+    font-family: "f1Reg", sans-serif;
+}
+
+.header-title {
+    margin: 1rem 0;
+    color: white;
+    font-size: 35px;
+    font-family: f1;
+    text-align: center;
+}
+
+.main-container {
+    margin: 2rem auto;
+    width: 90%;
+    border: 1px solid #444;
+    padding: 2rem;
+}
+
+.children-containers {
+    display: flex;
+    gap: 2rem;
+    justify-content: center;
+    flex-wrap: wrap;
+    height: 100%;
+}
+
+.test {
+    display: flex;
+    list-style: none;
+    width: 25%;
+    height: 300px;
+    border: 1px solid gray;
+    border-radius: 8px;
+    padding: 10px;
+    flex-direction: column;
+    align-items: center;
+}
+
+.inner-container {
+    display: inline-block;
+    border: 1px solid gray;
+    max-width: 100%;
+    height: auto;
+    border-radius: 8px;
+    overflow: hidden;
+}
+
+.card-img {
+    display: block;
+    object-fit: contain;
+    width: 100%;
+    border-radius: 8px;
+    transition: transform 0.3s ease;
+    height: auto;
+}
+
+.card-img:hover {
+    transform: scale(1.1);
+}
