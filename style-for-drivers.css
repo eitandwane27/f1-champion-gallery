@@ -1,0 +1,19 @@
+@font-face {
+    font-family: "f1";
+    src: url(fonts/Formula1-Black.ttf);
+}
+
+@font-face {
+    font-family: "f1Reg";
+    src: url(fonts/Formula1-Regular-1.ttf);
+}
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    background-color: #15151e;
+    font-family: "f1Reg", sans-serif;
+}
