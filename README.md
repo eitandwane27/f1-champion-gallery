@@ -6,6 +6,7 @@ Built with HTML, CSS, and JavaScript.
 ## 🚧 Project Status: 10% Complete
 
 -   [x] Layout structure
+-   [x] Initial animations
 
 ⚠️ This project is for educational and non-commercial use.  
 All images belong to their respective owners.
