@@ -1,3 +1,5 @@
+@import url("https://fonts.googleapis.com/css2?family=Titillium+Web:ital,wght@0,200;0,300;0,400;0,600;0,700;0,900;1,200;1,300;1,400;1,600;1,700&display=swap");
+
 @font-face {
     font-family: "f1";
     src: url(fonts/Formula1-Black.ttf);
@@ -16,4 +18,45 @@
 body {
     background-color: #15151e;
     font-family: "f1Reg", sans-serif;
+    margin: 5rem auto;
+    width: 90%;
+}
+
+.header-image {
+    margin: auto;
+    border: 1px solid black;
+    width: 70%;
+    height: 45vh;
+}
+
+.main-container {
+}
+
+.main-title {
+    margin-top: 5rem;
+    font-family: "f1";
+    font-size: 2.5rem;
+    color: #ffff;
+}
+
+.intro-bio {
+    display: flex;
+    gap: 6rem;
+    color: #ffff;
+    margin-top: 2.5rem;
+}
+
+.date,
+.place {
+    color: #aaaaaa;
+    font-size: 14px;
+    font-family: "titillium web", sans-serif;
+}
+
+.date-des,
+.place-des {
+    line-height: 3.5rem;
+    font-size: 24px;
+    font-family: f1Reg;
+    font-weight: 900;
 }
