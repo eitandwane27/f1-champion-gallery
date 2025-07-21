@@ -94,18 +94,24 @@ body {
 .pic2:hover img {
     transform: scale(1.05);
 }
+.main-container {
+    width: 80%;
+    margin: 0 auto;
+}
+
 .main-title {
     margin-top: 5rem;
     font-family: "f1";
     font-size: 2.5rem;
     color: #ffff;
+    margin-bottom: 2rem;
 }
 
 .intro-bio {
     display: flex;
     gap: 6rem;
     color: #ffff;
-    margin-top: 2.5rem;
+    margin-bottom: 3rem;
 }
 
 .date,
@@ -125,66 +131,149 @@ body {
 }
 
 .secondary-container {
-    width: 80%;
-
-    height: 60vh;
-    margin-top: 2rem;
+    width: 100%;
+    margin-bottom: 4rem;
     display: flex;
-    gap: 1rem;
+    gap: 3rem;
+    align-items: flex-start;
 }
 
 .drivers-pic {
-    border: 1px solid black;
-    width: 60%;
+    width: 45%;
+    height: 500px;
+    border-radius: 12px;
+    overflow: hidden;
+}
+
+.drivers-pic img {
+    width: 100%;
     height: 100%;
+    object-fit: cover;
 }
 
 .text-bio {
-    width: 45%;
-    height: 100%;
-    border: 1px solid black;
+    width: 55%;
+    padding-top: 1rem;
 }
 
-.quote-container {
-    width: 60%;
-    border: 1px solid black;
+.text-bio p {
+    font-size: 1.1rem;
+    line-height: 1.8;
+    margin-bottom: 1.5rem;
+    color: white;
+}
+
+/* Cars Driven Section Styles */
+.cars-driven {
+    width: 100%;
+    margin: 6rem 0;
+}
+
+.teams-grid {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap: 2rem;
     margin-top: 2rem;
-    margin: 2rem auto;
-    height: 20vh;
 }
 
-.size {
+.team-card {
+    background-color: #1f1f27;
+    border-radius: 12px;
+    overflow: hidden;
+    transition: all 0.3s ease;
+    position: relative;
+}
+
+.team-card:hover {
+    transform: translateY(-5px);
+}
+
+.team-image {
+    width: 100%;
+    height: 400px;
+    overflow: hidden;
+    position: relative;
+}
+
+.team-image img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    transition: transform 0.5s ease;
+}
+
+.team-image::after {
+    content: "";
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background: linear-gradient(
+        180deg,
+        rgba(31, 31, 39, 0) 0%,
+
+        rgba(31, 31, 39, 1) 150%
+    );
+}
+
+.team-info {
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    width: 100%;
+    padding: 2rem;
+    z-index: 1;
+    text-align: left;
+}
+
+.team-name {
+    color: #ffffff;
+    margin-bottom: 0.5rem;
     font-size: 2rem;
+    text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.3);
+}
+
+/* Statistics Section */
+.size {
+    font-size: 2.5rem;
+}
+
+.stats-container {
+    margin: 2rem auto 6rem;
+    width: 100%;
+    max-width: 800px;
+    background-color: #1f1f27;
+    border-radius: 12px;
+    padding: 2.5rem;
 }
 
 .career-title {
     font-family: "f1";
-    font-size: 1.5rem;
+    font-size: 1.8rem;
     color: #ffff;
-    margin-bottom: 2rem;
+    margin-bottom: 2.5rem;
     padding-left: 1rem;
-}
-
-.stats-container {
-    margin: 2rem auto;
-    width: 45%;
-    background-color: #1f1f27;
-    border-radius: 8px;
-    padding: 2rem;
 }
 
 .ul-list-of-titles {
     display: flex;
-    justify-content: space-between;
     flex-direction: column;
+    gap: 0.5rem;
 }
 
 .nested-li-container {
     display: flex;
     justify-content: space-between;
+    align-items: center;
     width: 100%;
-    padding: 1.2rem 1rem;
+    padding: 1.2rem 1.5rem;
     border-bottom: 1px solid #38383f;
+    transition: background-color 0.2s ease;
+}
+
+.nested-li-container:hover {
+    background-color: #2a2a33;
 }
 
 .nested-li-container:last-child {
@@ -198,19 +287,116 @@ body {
 
 .ff-titillium {
     color: #aaaaaa;
-    font-size: 14px;
+    font-size: 1rem;
     font-family: "titillium web", sans-serif;
 }
 
 .ff-f1 {
     font-family: "f1Reg";
     font-weight: bold;
-    font-size: 1.2rem;
+    font-size: 1.4rem;
     color: #ffff;
 }
 
-.text-bio p {
-    font-size: 1rem;
-    margin-bottom: 1rem;
-    color: white;
+/* Fan Gallery Section Styles */
+.gallery-section {
+    width: 100%;
+    margin: 4rem 0;
+    position: relative;
+}
+
+.gallery-title {
+    text-align: center;
+    margin-bottom: 3rem;
+}
+
+.title-fun {
+    font-family: "northwell", cursive;
+    font-size: 4rem;
+    color: #e10600;
+    margin-right: 1rem;
+    transform: rotate(-5deg);
+    display: inline-block;
+}
+
+.title-formal {
+    font-family: "f1", sans-serif;
+    font-size: 3rem;
+    color: #ffffff;
+    letter-spacing: 2px;
+}
+
+.gallery-container {
+    width: 100%;
+}
+
+.gallery-grid {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap: 2rem;
+}
+
+.art-card {
+    background-color: #1f1f27;
+    border-radius: 12px;
+    overflow: hidden;
+    transition: all 0.3s ease;
+    box-shadow: 0 4px 20px rgba(0, 0, 0, 0.2);
+}
+
+.art-card:hover {
+    transform: translateY(-5px);
+    box-shadow: 0 8px 25px rgba(0, 0, 0, 0.3);
+}
+
+.art-container {
+    width: 100%;
+    aspect-ratio: 4/3;
+    overflow: hidden;
+    position: relative;
+}
+
+.art-container img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    transition: transform 0.5s ease;
+}
+
+.art-card:hover .art-container img {
+    transform: scale(1.05);
+}
+
+.art-container::after {
+    content: "";
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    width: 100%;
+    height: 30%;
+    background: linear-gradient(to top, rgba(31, 31, 39, 0.8), transparent);
+    pointer-events: none;
+}
+
+.art-caption {
+    padding: 1.2rem;
+    text-align: center;
+    background: linear-gradient(to right, #1f1f27, #2a2a33);
+    border-top: 1px solid rgba(255, 255, 255, 0.1);
+}
+
+.caption-accent {
+    font-family: "northwell", cursive;
+    font-size: 2.2rem;
+    color: #e10600;
+    margin-right: 0.5rem;
+    display: inline-block;
+    transform: rotate(-3deg);
+}
+
+.caption-main {
+    font-family: "f1", sans-serif;
+    font-size: 1.2rem;
+    color: #ffffff;
+    letter-spacing: 1px;
 }

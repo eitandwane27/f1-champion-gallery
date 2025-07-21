@@ -404,3 +404,15 @@ body {
         max-height: 100px;
     }
 }
+
+/* for cursor pointer */
+.driver-link {
+    cursor: pointer;
+    transition: all 0.3s ease;
+}
+
+.driver-link:hover {
+    cursor: pointer;
+    color: aquamarine;
+    transform: scale(1.05);
+}
