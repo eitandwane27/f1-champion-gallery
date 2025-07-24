@@ -3,9 +3,29 @@
         {
             "id": "hamilton",
             "name": "Lewis Hamilton",
-            "age": "40",
+            "introP1": "images/hamilton/intro-p1.jpg",
+            "introP2": "images/hamilton/intro-p2.jpg",
             "signature": "Still I Rise",
-            "pic1": ""
+            "secondpic": "images/hamilton/Lewis-Hamilton.jpg",
+            "birth": "07/01/1985",
+            "place": "Stevenage, England",
+
+            "pic1": "images/hamilton/formula-1-2008_1500x.webp",
+
+            "paragraph": {
+                "text": "images/hamilton/hamilton.md"
+            },
+
+            "stats": {
+                "GPE": "368",
+                "CP": "4965.5",
+                "HRF": "1 (x105)",
+                "PODIUM": "202",
+                "HGP": "1 (x104)",
+                "PP": "104",
+                "WC": "7",
+                "DNF": "32"
+            }
         }
     ]
 }
