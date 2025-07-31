@@ -57,6 +57,8 @@ async function loadDriverData() {
 
         //teams
         document.querySelector(".car1").src = driver.pic1;
+        document.querySelector(".car2").src = driver.pic2;
+        document.querySelector(".car3").src = driver.pic3;
 
         //stats
         document.querySelector(".gp").textContent = driver.stats.GPE;
