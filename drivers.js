@@ -27,6 +27,8 @@ async function loadDriverData() {
         document.querySelector(".driver-name").textContent = driver.name;
 
         document.querySelector(".pic1 img").src = driver.introP1;
+        document.querySelector(".driver-signature").textContent =
+            driver.signature;
         document.querySelector(".pic2 img").src = driver.introP2;
         // img if inside the div
 

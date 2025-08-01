@@ -28,6 +28,36 @@
                 "WC": "7",
                 "DNF": "32"
             }
+        },
+
+        {
+            "id": "verstappen",
+            "name": "Max Verstappen",
+            "signature": "The Flying Dutchman",
+            "introP1": "images/verstappen/verstappen-2025-helmet.avif",
+            "introP2": "images/verstappen/00A-BS25-DK242460-1b.jpg",
+            "secondpic": "images/verstappen/Max-Verstappen-Interlagos-2024.webp",
+            "birth": "09/30/1997",
+            "place": "Hasselt, Belgium",
+
+            "pic1": "",
+            "pic2": "",
+            "pic3": "",
+
+            "paragraph": {
+                "text": "test"
+            },
+
+            "stats": {
+                "GPE": "",
+                "CP": "",
+                "HRF": "",
+                "PODIUM": "",
+                "HGP": "",
+                "PP": "",
+                "WC": "",
+                "DNF": ""
+            }
         }
     ]
 }
