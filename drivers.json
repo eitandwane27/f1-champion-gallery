@@ -9,6 +9,7 @@
             "secondpic": "images/hamilton/Lewis-Hamilton.jpg",
             "birth": "07/01/1985",
             "place": "Stevenage, England",
+            "teamsCount": 3,
 
             "pic1": "images/hamilton/formula-1-2008_1500x.webp",
             "pic2": "images/hamilton/1472079707.0.jpg",
@@ -39,6 +40,7 @@
             "secondpic": "images/verstappen/Max-Verstappen-Interlagos-2024.webp",
             "birth": "09/30/1997",
             "place": "Hasselt, Belgium",
+            "teamsCount": 2,
 
             "pic1": "",
             "pic2": "",
@@ -47,6 +49,14 @@
             "paragraph": {
                 "text": "test"
             },
+
+            "factoryTeams": [
+                {
+                    "name": "Torro Rosso",
+                    "year": "2015 - 2016",
+                    "image": ""
+                }
+            ],
 
             "stats": {
                 "GPE": "",

@@ -57,10 +57,29 @@ async function loadDriverData() {
         }
         await loadDriverBio();
 
-        //teams
-        document.querySelector(".car1").src = driver.pic1;
-        document.querySelector(".car2").src = driver.pic2;
-        document.querySelector(".car3").src = driver.pic3;
+        // Dynamic team cards
+        const teamsGrid = document.querySelector(".teams-grid");
+        teamsGrid.innerHTML = ""; // Clear existing cards
+
+        // Create team cards dynamically based on teamsCount
+        for (let i = 1; i <= driver.teamsCount; i++) {
+            const teamCard = document.createElement("div");
+            teamCard.className = "team-card";
+
+            teamCard.innerHTML = `
+                <div class="team-image">
+                    <img class="car${i}" src="${
+                driver[`pic${i}`] || ""
+            }" alt="Team ${i}" />
+                    <div class="team-info">
+                        <h3 class="team-name ff-f1">Team ${i}</h3>
+                        <p class="team-years ff-titillium">Years</p>
+                    </div>
+                </div>
+            `;
+
+            teamsGrid.appendChild(teamCard);
+        }
 
         //stats
         document.querySelector(".gp").textContent = driver.stats.GPE;
