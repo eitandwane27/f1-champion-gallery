@@ -12,8 +12,14 @@
             "teamsCount": 3,
 
             "pic1": "images/hamilton/formula-1-2008_1500x.webp",
+            "teamname1": "McLaren",
+            "teamyears1": "2007 - 2012",
             "pic2": "images/hamilton/1472079707.0.jpg",
+            "teamname2": "Mercedes",
+            "teamyears2": "2013 - 2023",
             "pic3": "images/hamilton/lewis-hamilton-scuderia-ferrari-sf-25-4096x2304-v0-4wcgy6ng40pe1.webp",
+            "teamname3": "Ferrari",
+            "teamyears3": "2024 - Present",
 
             "paragraph": {
                 "text": "images/hamilton/hamilton.md"
@@ -42,31 +48,27 @@
             "place": "Hasselt, Belgium",
             "teamsCount": 2,
 
-            "pic1": "",
-            "pic2": "",
+            "pic1": "images/verstappen/_86781738_max_verstappen_3_getty.jpg",
+            "teamname1": "Toro Rosso",
+            "teamyears1": "2015 - 2016",
+            "pic2": "images/verstappen/max-verstappen-2018-f1-red-bull-racing.avif",
+            "teamname2": "Red Bull Racing",
+            "teamyears2": "2016 - Present",
             "pic3": "",
 
             "paragraph": {
                 "text": "test"
             },
 
-            "factoryTeams": [
-                {
-                    "name": "Torro Rosso",
-                    "year": "2015 - 2016",
-                    "image": ""
-                }
-            ],
-
             "stats": {
-                "GPE": "",
-                "CP": "",
-                "HRF": "",
-                "PODIUM": "",
-                "HGP": "",
-                "PP": "",
-                "WC": "",
-                "DNF": ""
+                "GPE": "185",
+                "CP": "2800",
+                "HRF": "1 (x54)",
+                "PODIUM": "98",
+                "HGP": "1 (x32)",
+                "PP": "32",
+                "WC": "3",
+                "DNF": "25"
             }
         }
     ]

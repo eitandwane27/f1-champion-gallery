@@ -72,8 +72,12 @@ async function loadDriverData() {
                 driver[`pic${i}`] || ""
             }" alt="Team ${i}" />
                     <div class="team-info">
-                        <h3 class="team-name ff-f1">Team ${i}</h3>
-                        <p class="team-years ff-titillium">Years</p>
+                        <h3 class="team-name ff-f1">${
+                            driver[`teamname${i}`] || `Team ${i}`
+                        }</h3>
+                        <p class="team-years ff-titillium">${
+                            driver[`teamyears${i}`] || "Years"
+                        }</p>
                     </div>
                 </div>
             `;
