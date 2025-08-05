@@ -70,6 +70,68 @@
                 "WC": "3",
                 "DNF": "25"
             }
+        },
+        {
+            "id": "nino-farina",
+            "name": "Giuseppe 'Nino' Farina",
+            "signature": "",
+            "introP1": "",
+            "introP2": "",
+            "secondpic": "",
+            "birth": "",
+            "place": "",
+            "teamsCount": 0,
+            "pic1": "",
+            "teamname1": "",
+            "teamyears1": "",
+            "pic2": "",
+            "teamname2": "",
+            "teamyears2": "",
+            "pic3": "",
+            "teamname3": "",
+            "teamyears3": "",
+            "paragraph": { "text": "" },
+            "stats": {
+                "GPE": "",
+                "CP": "",
+                "HRF": "",
+                "PODIUM": "",
+                "HGP": "",
+                "PP": "",
+                "WC": "",
+                "DNF": ""
+            }
+        },
+        {
+            "id": "juan-manuel-fangio",
+            "name": "Juan Manuel Fangio",
+            "signature": "",
+            "introP1": "",
+            "introP2": "",
+            "secondpic": "",
+            "birth": "",
+            "place": "",
+            "teamsCount": 0,
+            "pic1": "",
+            "teamname1": "",
+            "teamyears1": "",
+            "pic2": "",
+            "teamname2": "",
+            "teamyears2": "",
+            "pic3": "",
+            "teamname3": "",
+            "teamyears3": "",
+            "paragraph": { "text": "" },
+            "stats": {
+                "GPE": "",
+                "CP": "",
+                "HRF": "",
+                "PODIUM": "",
+                "HGP": "",
+                "PP": "",
+                "WC": "",
+                "DNF": ""
+            }
         }
     ]
 }
