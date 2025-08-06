@@ -1,0 +1,5 @@
+Alberto Ascari (b. July 13, 1918, Milan, Italy) was Ferrari's first true legend - a metronomic perfectionist who dominated Formula 1's deadliest era with ice-cool precision. Nicknamed "Il Ciccio" ("The Chubby One") for his portly frame, this son of a racing martyr became the sport's first back-to-back World Champion (1952-53), winning 15 of 17 races entered during his reign.
+
+Driving like a man possessed by his father's ghost (1930s champion Antonio Ascari died racing when Alberto was 7), he pioneered the scientific approach - studying tracks on foot and hitting lap times within seconds of practice. His blue helmet and #26 Ferrari became symbols of invincibility, including F1's only perfect season (1952: 6 wins from 6 starts).
+
+Ascari's superstitions were as famous as his skills: he knocked on wood before races, avoided black cats, and always wore blue underwear. His tragic 1955 death at Monza (testing a Ferrari sports car days after surviving a Monaco GP plunge into the harbor) cemented his myth - a champion who flirted with danger until it claimed him, just like his father.

@@ -1,0 +1,5 @@
+Phil Hill (b. April 20, 1927, Miami, Florida) was America's first Formula 1 World Champion – a sensitive, introspective artist with a mechanic's soul who conquered Ferrari's brutal "sharknose" era. Nicknamed "The Quiet Champion" for his reserved demeanor that masked volcanic intensity, Hill's 1961 title victory made him the only American-born driver to claim F1's ultimate crown.
+
+A self-taught mechanic who rebuilt war-surplus cars as a teenager, Hill drove with surgical precision, his wire-rim glasses and thoughtful approach belying a man who could wring the neck of Ferrari's treacherous 156 "sharknose" when needed. His championship season became a haunting triumph – clinched at Monza where teammate Wolfgang von Trips perired in a crash that killed 15 spectators, casting a shadow Hill carried forever.
+
+More scholar than showman, Hill collected antique cars and classical records with the same passion he drove – retiring abruptly in 1964 after calling F1 "a blood sport." The man who hated danger but mastered it left as he arrived: quiet, dignified, and faster than anyone suspected. "I was a driver who won," he once said, "not a winner who drove."

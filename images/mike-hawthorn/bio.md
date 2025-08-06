@@ -1,0 +1,5 @@
+Mike Hawthorn (b. April 10, 1929, Mexborough, England) was F1's original "playboy champion" – a cigar-chomping, bowtie-wielding maverick who stole the 1958 title with Ferrari while battling a terminal illness. Nicknamed "The Farnham Flyer" for his hometown and daredevil style, he became Britain's first World Champion in a career tragically cut short.
+
+Hawthorn raced with flamboyant recklessness, smoking between sessions and wearing his signature bowtie under racing overalls. His 1958 title fight with Stirling Moss (winning by just 1 point despite only 1 victory all season) exposed F1's quirks – Hawthorn lost his license for "reckless driving on public roads" mid-season, yet still claimed the crown.
+
+Behind the charm hid a man marked by loss: his teammate and close friend Peter Collins died in Hawthorn's championship year, and he retired immediately after winning the title. Three months later, Hawthorn himself perished in a road crash at age 29 – his Jaguar skidding on a wet Surrey road, closing the book on F1's most paradoxical champion.

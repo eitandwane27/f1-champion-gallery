@@ -1,0 +1,5 @@
+Giuseppe "Nino" Farina (b. October 30, 1906, Turin, Italy) was Formula 1’s original champion and a racing aristocrat who defined the sport’s golden era. Nicknamed "Il Vecchio Signore" (The Old Gentleman) for his poised yet lethal driving style, he claimed the inaugural 1950 World Championship at age 43—still the oldest title-winner in F1 history.
+
+The nephew of coachbuilder Pininfarina, Farina’s engineering precision and ice-cool demeanor masked a relentless racer. His trademark crossed-arm driving posture (born from pre-war crash injuries requiring a neck brace) became iconic as he dominated Alfa Romeo’s legendary 158 Alfetta.
+
+Farina’s 1950 season was a masterclass: winning the British GP at Silverstone, podiuming in every race, and defeating rivals like Fangio through tactical brilliance rather than brute speed. Though later overshadowed by younger stars, his legacy as F1’s first champion and a bridge between pre-war Grand Prix racing and modern F1 remains unmatched.

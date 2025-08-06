@@ -1,0 +1,5 @@
+Juan Manuel Fangio (b. June 24, 1911, Balcarce, Argentina) was the godfather of Formula 1 dominance, whose five World Championships (1951, 1954-1957) stood as an untouchable record for 46 years. Nicknamed "El Maestro" (The Master) for his surgical precision and supernatural car control, the Argentine ace won 46% of all races he entered—a strike rate unmatched in F1 history.
+
+A mechanic turned racer, Fangio’s genius lay in adapting to any car: he claimed titles with four different manufacturers (Alfa Romeo, Mercedes, Ferrari, and Maserati), often beating teammates in identical machinery. His 1957 German GP victory at the Nürburgring—gaining 48 seconds on rivals in 22 laps while nursing failing tires—remains the sport’s greatest defensive drive.
+
+Though his career nearly ended in a 1952 crash that left him clinically dead for minutes, Fangio returned fiercer, dominating F1’s deadliest era with a rare blend of calculated aggression and mechanical empathy. His retirement in 1958 marked the end of racing’s romantic age—but his legacy as the gold standard of pure driving talent endures.
