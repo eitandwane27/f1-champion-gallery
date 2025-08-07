@@ -1,0 +1,5 @@
+Niki Lauda (b. February 22, 1949, Vienna, Austria) was Formula 1’s indestructible warrior – a calculating genius who defied death, won three World Championships (1975, 1977, 1984), and became the sport’s ultimate comeback king. Nicknamed "The Rat" for his sharp features and relentless intelligence, Lauda turned racing into a science, pioneering data-driven setups and fuel management long before they became standard.
+
+His 1976 season became legend: after near-fatal burns at the Nürburgring (lungs scorched, eyelids melted), he returned just 42 days later, blood still seeping from his bandages, to finish fourth at Monza. The man who clinically declared "my risk is 20% chance of death" before withdrawing from Japan’s typhoon-soaked finale lost the title by one point to James Hunt – then stormed back to win two more championships with robotic precision.
+
+Post-retirement, the chain-smoking airline magnate became F1’s sharpest pundit and Mercedes’ non-executive chairman, mentoring Lewis Hamilton. His 2019 death at 70 saw rivals and fans alike honor the man who proved courage wasn’t the absence of fear, but the mastery of it.

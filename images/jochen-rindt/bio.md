@@ -1,0 +1,5 @@
+Jochen Rindt (b. April 18, 1942, Mainz, Germany) was F1's "Uncrowned King" – a fearless, flamboyant charger who became the sport's only posthumous World Champion in 1970 after his tragic death at Monza. Nicknamed "The Viennese Wildcat" for his Austrian roots and attacking style, Rindt redefined car control with his signature opposite-lock slides, wrestling Lotus's fragile 72 chassis to five straight wins in his final season.
+
+The orphan raised by grandparents (his parents died in a 1943 air raid) raced with a survivor's desperation – his 1970 Monaco GP victory (by 23 seconds on crumbling tires) and German GP masterclass (lapping the entire field) showcased a man at his peak. Yet Rindt loathed his Lotus's ground-effect aerodynamics, calling it "a bloody airplane", and famously raced without a seatbelt, declaring: "If I'm going to burn, I want to be thrown clear."*
+
+His death during Italian GP practice – caused by a failed brake shaft at 180 mph – shocked the sport. When no rival could surpass his points tally, his widow Nina accepted the championship trophy as Rindt entered history as F1's most tragic champion.

@@ -161,6 +161,7 @@ body {
 .text-bio {
     width: clamp(45%, 55%, 60%);
     padding-top: clamp(0.5rem, 2vw, 1rem);
+    padding-top: 0;
 }
 
 .text-bio p {
