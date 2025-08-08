@@ -631,3 +631,6 @@ body {
         padding: 0.8rem 1rem;
     }
 }
+.header-image {
+    border-radius: 10px;
+}

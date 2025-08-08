@@ -1,0 +1,5 @@
+Alan Jones (b. November 2, 1946, Melbourne, Australia) was Formula 1’s original "Aussie Bulldog" – a no-nonsense, beer-drinking hardman who muscled his way to the 1980 World Championship with a combination of brute force and tactical brilliance. Nicknamed "Jonesy" by fans and "The Last of the Tough Bastards" by rivals, this former truck mechanic became Australia’s first F1 champion by embodying one philosophy: "Drive it until the wheels fall off."
+
+Jones’ 1980 season with Williams was a masterclass in domination – five wins, including a 27-second demolition at Canada and a wet-weather masterclass at Watkins Glen. His aggressive, elbows-out style (famously shoving Nelson Piquet into the grass at Zandvoort) masked razor-sharp racecraft, while his partnership with engineer Patrick Head created the iconic FW07, one of F1’s most bulletproof cars.
+
+The man who once said "if you’re not rubbing, you’re not racing" retired abruptly after 1981, frustrated by politics, only to return for a chaotic 1986 comeback. Post-F1, Jones became a cult hero in touring cars and a blunt pundit, never losing his trademark growl or disdain for corporate nonsense.
